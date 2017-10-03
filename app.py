@@ -28,4 +28,4 @@ def tweet_out(count):
 while(True):
     tweet_out(counter)
     counter += 1
-    time.sleep(5)
+    time.sleep(60)
